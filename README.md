@@ -1,4 +1,4 @@
-# QR Code Terminal Generator
+## QR Code Terminal Generator
 
 A scripting python code that uses the Google API constructs to generate qr code by simply requesting get over the API.
 
